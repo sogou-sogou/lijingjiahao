@@ -1,2 +1,1 @@
-# sogou
-sogou
+# www.sogo.com
