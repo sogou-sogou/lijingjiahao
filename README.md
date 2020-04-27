@@ -1,2 +1,2 @@
 # www.sogo.website
-# nkyfx.cn/r/cms/www/cms
+# www.nkyfx.cn/r/cms/www/network
