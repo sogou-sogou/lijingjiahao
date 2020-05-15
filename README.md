@@ -7,3 +7,5 @@
        
        
       web.zhanhi.com/vip_hao513hao.html
+注:IP(端口号)：58.221.42.117:21111
+用户名：administrator密码：********
