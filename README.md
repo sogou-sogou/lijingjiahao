@@ -835,3 +835,505 @@ p.feedbackStyleSuccess a:hover,p.feedbackStyleInfo a:hover,p.feedbackStyleWarnin
 </body>
 </html>
 
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+   
+<canvas id="evanyou" width="1920" height="934"></canvas> /*CSS代码:*/
+<style type="text/css">
+  #evanyou {
+    position: fixed;
+    width: 100%;
+    height: 100%;
+    left: 0;
+    top: 0;
+  }
+</style>
+<script>
+  var c = document.getElementById('evanyou'),
+    x = c.getContext('2d'),
+    pr = window.devicePixelRatio || 1,
+    w = window.innerWidth,
+    h = window.innerHeight,
+    f = 90,
+    q, m = Math,
+    r = 0,
+    u = m.PI * 2,
+    v = m.cos,
+    z = m.random;
+  c.width = w * pr;
+  c.height = h * pr;
+  x.scale(pr, pr);
+  x.globalAlpha = 0.6;
+  function evanyou() {
+    x.clearRect(0, 0, w, h) q = [{
+      x: 0,
+      y: h * .7 + f
+    }, {
+      x: 0,
+      y: h * .7 - f
+    }]
+    while(q[1].x <
+      w + f) d(q[0], q[1])
+  }
+  function d(i, j) {
+    x.beginPath() x.moveTo(i.x, i.y) x.lineTo(j.x, j.y) var k = j.x + (z() * 2 - 0.25) * f,
+      n = y(j.y) x.lineTo(k, n) x.closePath() r -= u / -50 x.fillStyle = '#' + (v(r) * 127 + 128 << 16 | v(r + u / 3) * 127 + 128 << 8 | v(r + u / 3 * 2) * 127 + 128).toString(16) x.fill() q[0] = q[1] q[1] = {
+        x: k,
+        y: n
+      }
+  }
+  function y(p) {
+    var t = p + (z() * 2 - 1.1) * f
+    return(t > h || t <
+      0) ? y(p) : t
+  }
+  document.onclick = e vanyou document.ontouchstart = e vanyou evanyou();
+</script>                     
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                       
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                        
+                         
+                         
+                         
+                         
+                         
+                         
+                         
+                          
+                           
+                           
+                            
+                             
+                              
+                              
+  //Html代码: body>
+<!--回到顶部-->
+<div id="back-to-top" class="red" data-scroll="body" style="top:-46px;color:red;">回到顶部 </div>
+<!--撑开网页代码-->
+<p>hello</p>
+<p>hello</p>
+<p>hello</p>
+<p>hello</p>
+<p>hello</p>
+<p>hello</p>
+<p>hello</p>
+<p>hello</p>
+<p>hello</p>
+<p>hello</p>
+<p>hello</p>
+<p>hello</p>
+<p>hello</p>
+<p>hello</p>
+<p>hello</p>
+<p>hello</p>
+<p>hello</p>
+<p>hello</p>
+<p>hello</p>
+<p>hello</p>
+<p>hello</p>
+<p>hello</p>
+<p>hello</p>
+<p>hello</p>
+<p>hello</p>
+<p>hello</p>
+<p>hello</p>
+<p>hello</p>
+<p>hello</p>
+<p>hello</p>
+<p>hello</p>
+<p>hello</p>
+<p>hello</p>
+<!--以上是撑开网页代码-->//CSS样式 #back-to-top { position:fixed; right:50px; z-index:9; width:70px; height:900px; background:url('/Content/Images/scroll.png'); transition:0.5s; cursor:pointer; } //JS部分:
+<script src="~/Scripts/jquery-1.8.2.min.js"></script>
+<script type="text/javascript">
+  window.onload = function() {
+    // 利用 data-scroll 属性，滚动到任意 dom 元素           
+    $.scrollto = function(scrolldom, scrolltime) {
+      $(scrolldom).click(function() {
+        var scrolltodom = $(this).attr("data-scroll");
+        $(this).addClass("active").siblings().removeClass("active");
+        $('html, body').animate({
+          scrollTop: $(scrolltodom).offset().top
+        }, scrolltime);
+        return false;
+      });
+    };
+    //判断位置控制 返回顶部的显隐
+    if($(window).width() > 800) {
+      //如果窗体的宽度大于800
+      var backTo = $("#back-to-top");
+      //获取back-to-top对象
+      var backHeight = $(window).height() - 980 + 'px';
+      //让window高度减980
+      $(window).scroll(function() {
+        if($(window).scrollTop() > 700 && backTo.css('top') === '-900px') {
+          backTo.css('top', backHeight);
+        } else if($(window).scrollTop() <= 700 && backTo.css('top') !== '-900px') {
+          backTo.css('top', '-900px');
+        }
+      });
+    }
+    //启用            
+    $.scrollto("#back-to-top", 800);
+  }
+</script>
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+   <div class="xm"> <img src="/Content/Images/xiaomai.png" /> </div> //CSS代码
+<style>
+  .xm {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    z-index: 1;
+    font-size: 0;
+    transition: all .3s ease-in-out;
+    transform: translateY(3px);
+  }
+  
+  .xm:hover {
+    -webkit-transform: translateY(0);
+    -ms-transform: translateY(0);
+  }
+  
+  .xm img {
+    width: 50px;
+  }
+</style>                         
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//css如下所示
+<style>
+  abbr,
+  acronym,
+  address,
+  applet,
+  article,
+  aside,
+  audio,
+  b,
+  big,
+  blockquote,
+  body,
+  canvas,
+  caption,
+  center,
+  cite,
+  code,
+  dd,
+  del,
+  details,
+  dfn,
+  dl,
+  dt,
+  em,
+  embed,
+  fieldset,
+  figcaption,
+  figure,
+  footer,
+  form,
+  h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6,
+  header,
+  html,
+  iframe,
+  img,
+  ins,
+  kbd,
+  label,
+  legend,
+  li,
+  mark,
+  menu,
+  nav,
+  object,
+  ol,
+  output,
+  p,
+  pre,
+  q,
+  ruby,
+  s,
+  samp,
+  section,
+  small,
+  span,
+  strike,
+  strong,
+  sub,
+  summary,
+  sup,
+  table,
+  tbody,
+  td,
+  tfoot,
+  th,
+  thead,
+  time,
+  tr,
+  tt,
+  u,
+  ul,
+  var,
+  video {
+    margin: 0;
+    padding: 0;
+    cursor: url('/Content/Image/cursor.ico'), auto;
+  }
+</style>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div align="center" id="demo">
+  <div id="demo1"> 我是滚动内容<br/> 你来抓我啊<br/> 嗖嗖嗖<br/> 2333333333333333333333333 </div>
+  <div id="demo2"></div>
+</div>
+<style>
+  #demo {
+    overflow: hidden;
+    height: 200px;
+    width: 250px;
+    border: 1px solid #6699cc;
+    font-size: 14px;
+    color: #336699;
+    line-height: 22px;
+    text-align: left;
+    padding: 10px;
+  }
+</style>
+<script>
+  //JS代码: 
+  var demo = document.getElementById("demo");
+  var demo1 = document.getElementById("demo1");
+  var demo2 = document.getElementById("demo2");
+  var speed = 30;
+  //滚动速度值,值越大速度越慢
+  var nnn = 200 / demo1.offsetHeight;
+  for(i = 0; i < nnn; i++) {
+    demo1.innerHTML += "<br />" + demo1.innerHTML
+  }
+  demo2.innerHTML = d emo1.innerHTML
+  //克隆demo2为demo1 
+  function Marquee() {
+    if(demo2.offsetTop - demo.scrollTop <= 0)
+      //当滚动至demo1与demo2交界时,demo跳到最顶端
+      demo.scrollTop -= demo1.offsetHeight
+    else {
+      demo.scrollTop++ //如果是横向的 将 所有的 height top 改成 width left 
+    }
+  }
+  var MyMar = s etInterval(Marquee, speed);
+  //设置定时器,鼠标经过时清除定时器达到滚动停止的目的 
+  demo.onmouseover = f unction() {
+    clearInterval(MyMar)
+  }
+  //鼠标移开时重设定时器
+  demo.onmouseout = f unction() {
+    MyMar = s etInterval(Marquee, speed)
+  }
+</script>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div> <canvas id="canvas"></canvas> <canvas id="snow"></canvas>
+  <div class="am-g" style="position: fixed; bottom: 0px;">
+    <div class="am-u-sm-12">
+      <div style="z-index: 9999" id="player" class="aplayer"> </div>
+    </div>
+  </div>
+</div> //CSS代码 canvas { position: fixed; width: 100%; height: 100%; z-index: -1; } //引入JS
+<script src="~/Content/assets/js/jquery.min.js"></script>
+<script src="~/Scripts/Blog/universe.js"></script>
+<!--旋转背景-->
+<script src="~/Scripts/Blog/Fireworks.js"></script>
+<!--点击放烟花-->
