@@ -1,5 +1,5 @@
 加浩版权
-以下是搜狗搜索
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          
 版权：https://bitbucket.org/sogou-jiahao/sogou.git
 加浩码云内容为GitHub的备份文件
 均为加浩版权
@@ -8,10 +8,585 @@
 
 
 
-版权所有                                                                                                     加浩版权所有，本站与搜狗无关，只为演示使用-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
 
-<!DOCTYPE html><html lang="cn"><head><script type="text/javascript">/*file=static/js/resourceErrorReport.js*/!function(a){var n=(new Date).getTime(),r=a.location.protocol;function c(e,t){var o=(new Date).getTime()-n;(new Image).src=["//pb.sogou.com/pv.gif?uigs_productid=wapapp&type=resource-error&stype=",e,"&timestamp=",o,"&protocol=",r,"&host=",encodeURIComponent(a.location.host),"&path=",encodeURIComponent(a.location.pathname),"&resource=",encodeURIComponent(t)].join("")}function e(e){if((e=e||a.event)&&"error"===e.type){var t=e.srcElement?e.srcElement:e.target;if(t){var o,n,r=t.tagName;"LINK"===r?(n="css",(o=t.getAttribute("href"))&&o.match(/\.css($|\?)/)&&c(n,o)):"SCRIPT"===r&&(n="js",(o=t.getAttribute("src"))&&o.match(/\.js($|\?)/)&&c(n,o))}}}r&&(r=r.substring(0,r.length-1)),a.addEventListener?a.addEventListener("error",e,!0):a.attachEvent&&a.attachEvent("onerror",e)}(window);</script><script>window._speedMark = new Date();  window.lead_ip = '111.197.83.231';
-    window.now = 1589595981909;</script><meta charset="utf-8"><link rel="dns-prefetch" href="//img01.sogoucdn.com"><link rel="dns-prefetch" href="//img02.sogoucdn.com"><link rel="dns-prefetch" href="//img03.sogoucdn.com"><link rel="dns-prefetch" href="//img04.sogoucdn.com"><link rel="dns-prefetch" href="//dlweb.sogoucdn.com"><title>搜狗搜索引擎 - 上网从搜狗开始</title><link rel="shortcut icon" href="/images/logo/new/favicon.ico?v=4" type="image/x-icon"><meta http-equiv="X-UA-Compatible" content="IE=Edge"><link rel="search" type="application/opensearchdescription+xml" href="/content-search.xml" title="搜狗搜索"><meta name="keywords" content="搜狗搜索,网页搜索,微信搜索,视频搜索,图片搜索,音乐搜索,新闻搜索,软件搜索,问答搜索,百科搜索,购物搜索"><meta name="description" content="搜狗搜索是全球第三代互动式搜索引擎，支持微信公众号和文章搜索、知乎搜索、英文搜索及翻译等，通过自主研发的人工智能算法为用户提供专业、精准、便捷的搜索服务。"><link rel="stylesheet" type="text/css" href="//dlweb.sogoucdn.com/pcsearch/web/index/css/index_style_9454fa6.css"><style>.wrapper .suggestion{border:1px solid #e8e8e8;width:653px;-moz-box-shadow:0 1px 8px rgba(0,0,0,.1);-webkit-box-shadow:0 1px 8px rgba(0,0,0,.1);box-shadow:0 1px 8px rgba(0,0,0,.1);border-top-left-radius:0;border-top-right-radius:0;border-bottom-right-radius:2px;border-bottom-left-radius:2px;top:43px}.wrapper .suglist{width:206px}.wrapper .suglist .keyword{color:#7a77c8}.big-scn .suggestion{width:820px}.big-scn .suglist{width:236px}.wrapper .suglist{padding:4px 0}input[type=text]::-ms-clear{display:none}</style></head><body color-style="white"><div class="wrapper " id="wrap"><div class="header"> <div class="top-nav"><ul><li><a onclick="st(this,'40030300','news')" href="http://news.sogou.com" uigs-id="nav_news" id="news">新闻</a></li><li class="cur"><span>网页</span></li><li><a onclick="st(this,'73141200','weixin')" href="http://weixin.sogou.com/" uigs-id="nav_weixin" id="weixinch">微信</a></li><li><a onclick="st(this,'40051200','zhihu')" href="http://zhihu.sogou.com/" uigs-id="nav_zhihu" id="zhihu">知乎</a></li><li><a onclick="st(this,'40030500','pic')" href="http://pic.sogou.com" uigs-id="nav_pic" id="pic">图片</a></li><li><a onclick="st(this,'40030600','video')" href="https://v.sogou.com/" uigs-id="nav_v" id="video">视频</a></li><li><a href="http://mingyi.sogou.com?fr=common_index_nav" uigs-id="nav_mingyi" id="mingyi" onclick="st(this,'','myingyi')">明医</a></li><li><a href="http://english.sogou.com?fr=pcweb_index_nav" uigs-id="nav_overseas" id="overseas" onclick="st(this,'','overseas')">英文</a></li><li><a onclick="st(this,'web2ww','wenwen')" href="https://wenwen.sogou.com/?ch=websearch" uigs-id="nav_wenwen" id="index_more_wenwen">问问</a></li><li><a href="http://scholar.sogou.com?fr=common_index_nav" uigs-id="nav_scholar" id="scholar" onclick="st(this,'','scholar')">学术</a></li><li class="show-more"><a href="javascript:void(0);" id="more-product">更多<i class="m-arr"></i></a><div class="pos-more" id="products-box" style="top:40px"><span class="ico-san"></span><a onclick="st(this,'40031000')" href="http://map.sogou.com" uigs-id="nav_map" id="map">地图</a><a onclick="st(this,'40031500')" href="http://gouwu.sogou.com/" uigs-id="nav_gouwu" id="index_more_gouwu">购物</a><a onclick="st(this,'40051203')" href="http://baike.sogou.com/Home.v" uigs-id="nav_baike" id="index_more_baike">百科</a><a onclick="st(this)" href="http://zhishi.sogou.com" uigs-id="nav_zhishi" id="index_more_zhishi">知识</a><a onclick="st(this,'40051205')" href="http://as.sogou.com/" uigs-id="nav_app" id="index_more_appli">应用</a><a onclick="st(this,'40051205','fanyi')" href="http://fanyi.sogou.com?fr=common_index_nav_pc" uigs-id="nav_fanyi" id="index_more_fanyi">翻译</a><a href="http://index.sogou.com" uigs-id="nav_index" id="index_more_index">指数</a>  <a href="http://dangjian.sogou.com" uigs-id="nav_dangjian" id="dangjian" onclick="st(this,'','dangjian')">党建</a>  <span class="all"><a onclick="st(this,'40051206')" href="http://www.sogou.com/docs/more.htm?v=1" uigs-id="nav_all" target="_blank">全部</a></span></div></li></ul></div><div class="user-box"><div class="local-weather" id="local-weather"><div class="wea-box" id="cur-weather" style="display:none"></div>  <div class="pos-more" id="detail-weather" style="top:40px;left:-80px"></div>  </div><span class="line" id="user-box-line" style="display:none"></span><div class="user-enter"><a href="javascript:void(0);" id="show-card"  style="display:none"  uigs-id="settings_show-card">显示卡片</a>  <a href="javascript:void(0);" class="enter" id="loginBtn">登录</a>  </div></div></div><div class="content" id="content"><div class="pos-header" id="top-float-bar"><div class="part-one"></div><div class="part-two" id="card-tab-layer"><div class="c-top" id="top-card-tab"></div></div></div><div class="logo2" id="logo-s"><span></span></div><div class="logo" id="logo-l"><span></span></div> <div class="search-box querybox-focus" id="search-box"><form action="/web" name="sf" id="sf"><span class="sec-input-box"><input type="text" class="sec-input active" name="query" id="query" maxlength="100" len="80" autocomplete="off"></span><span class="enter-input"><input type="submit" value="搜狗搜索" id="stb"></span><input type="hidden" name="_asf" value="www.sogou.com"> <input type="hidden" name="_ast"> <input type="hidden" name="w" value="01019900"> <input type="hidden" name="p" value="40040100"> <input type="hidden" name="ie" value="utf8">  <input type="hidden" name="from" value="index-nologin">  <input type="hidden" name="s_from" value="index"><div class="keywords-tips" id="keywordsTips" style="display:none"><i></i><p>“<strong id="keywordsTipsStrong">369</strong>”后面的文字被忽略，搜狗的查询限制在40个汉字以内。</p></div></form></div>  </div><div class="card-box" id="card-box" style="display:none"><div class="card-box2" id="card-box2"><div class="c-top" id="card-tab-box"><a href="javascript:void(0);" uigs-id="settings_close-card" id="close-card" class="shezhi"></a></div><div class="c-main" id="card-content"></div></div></div><div class="loog-more" id="scroll-more" style="display:none"><a href="javascript:void(0);" uigs-id="scroll-more">滚动查看更多<br><span class="ico_san"></span></a></div><div class="ft" id="footer"  style="display:none" ><a href="http://b.sogou.com/" target="_blank" uigs-id="footer_tuiguang">企业推广</a><span class="line"></span><a href="http://corp.sogou.com/" target="_blank" uigs-id="footer_about">关于搜狗</a><span class="line"></span><a href="http://ir.sogou.com/" target="_blank" uigs-id="footer_aboutEnglish">About Sogou</a><span class="line"></span><a href="http://www.sogou.com/docs/terms.htm?v=1" target="_blank" uigs-id="footer_disclaimer">免责声明</a><span class="line"></span><a href="http://fankui.help.sogou.com/index.php/web/web/index/type/4" target="_blank" uigs-id="footer_feedback">意见反馈及投诉</a><span class="line"></span><a href="http://corp.sogou.com/private.html" target="_blank" uigs-id="footer_private">隐私政策</a><br>&copy;&nbsp;2004-2020&nbsp;Sogou.com&nbsp;/&nbsp;<span class="g">京网文 (2016) 6432-852号</span>&nbsp;/&nbsp;<a href="http://www.miibeian.gov.cn" target="_blank" class="g">京ICP证050897号</a><br><span class="g">(京)-经营性-2016-0019</span>&nbsp;/&nbsp;<a href="http://www.12377.cn" class="g" target="_blank">网上有害信息举报专区</a>&nbsp;/&nbsp;<a href="http://www.miibeian.gov.cn/" target="_blank" class="g">京ICP备11001839号-1</a>&nbsp;/&nbsp;<a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000025" class="ba" target="_blank">京公网安备11000002000025号</a></div>  <div class="ft-v1" id="QRcode-footer" style="padding-bottom:28px"><div class="erwm-box"><span class="ewm"><img src="/web/index/images/erweima2.png" alt=""></span><div class="erwx"><p>下载搜狗搜索APP</p></div></div><div class="ft-info"><a uigs-id="mid_pinyin" href="http://pinyin.sogou.com/" target="_blank"><i class="i1"></i>搜狗输入法</a><span class="line"></span><a uigs-id="mid_liulanqi" href="http://ie.sogou.com/" target="_blank"><i class="i2"></i>浏览器</a><span class="line"></span><a uigs-id="mid_daohang" href="http://123.sogou.com/" target="_blank"><i class="i3"></i>网址导航</a><br><a href="http://corp.sogou.com/" target="_blank" class="g">关于搜狗</a>&nbsp;-&nbsp;<a href="http://ir.sogou.com/" target="_blank" class="g">About Sogou</a>&nbsp;-&nbsp;<a href="http://b.sogou.com/" target="_blank" class="g">企业推广</a>&nbsp;-&nbsp;<a href="http://www.sogou.com/docs/terms.htm?v=1" target="_blank" class="g">免责声明</a>&nbsp;-&nbsp;<a href="http://fankui.help.sogou.com/index.php/web/web/index/type/4" target="_blank" class="g">意见反馈及投诉</a>&nbsp;-&nbsp;<a href="http://corp.sogou.com/private.html" target="_blank" class="g" uigs-id="footer_private">隐私政策</a><br>&copy;&nbsp;2004-2020&nbsp;Sogou.com&nbsp;/&nbsp;<span class="g">京网文 (2016) 6432-852号</span>&nbsp;/&nbsp;<span class="g">(京)-经营性-2016-0019</span><br><a href="http://www.12377.cn" class="g" target="_blank">网上有害信息举报专区</a>&nbsp;/&nbsp;<span class="g">京ICP证050897号</span>&nbsp;/&nbsp;<span class="g">京ICP备11001839号-1</span>&nbsp;/&nbsp;<a href="http://www.beian.gov.cn/portal/registerSystemInfo?recordcode=11000002000025" class="ba" target="_blank">京公网安备11000002000025号</a></div></div> <div class="kuozhan" id="QRcode-box" style="display:none"><a href="javascript:void(0);" id="miniQRcode"></a><span id="QRcode"></span></div><a href="javascript:void(0);" class="back-top" id="back-top"></a></div> <script>var SugPara, uigs_para, msBrowserName = navigator.userAgent.toLowerCase(),msIsSe = false,msIsMSearch = false, hasDoodle = false, queryinput = document.getElementById('query');</script><script>/*file=static/js/indexjs.js*/function indexjsInit(e,o,n,a,t,i,s,u){var r={puid:t,cards:i,cards_sw:s,uigs_cookie:"SUID,sct,SUV"};function c(){try{window.external.metasearch("make_connection","www.google.com.hk")}catch(e){}}uigs_para={uigs_productid:"webapp",type:"webindex_new",stype:e?"login":"nologin",scrnwi:screen.width,scrnhi:screen.height,uigs_pbtag:"A",uigs_cookie:"SUID,sct",protocol:"https:"==location.protocol.toLowerCase()?"https":"http"},e&&(uigs_para=Object.assign(uigs_para,r),window.loginCardConfig={show:"1"===s,cardTab:[{text:"推荐",id:"card-news-tab",initFn:"newsInit",className:"cur"},{text:"导航",id:"card-nav-tab",initFn:"navInit"}]}),SugPara={queryboxid:"search-box",enableSug:!0,sugType:"web",domain:"w.sugg.sogou.com",productId:"web",sugFormName:"sf",inputid:"query",submitId:"stb",suggestRid:"01015002",normalRid:"01019900",useParent:1,sugglocation:"index",showVr:!0,showHotwords:!0,suggAbtestObject:o},/se 2\.x/i.test(msBrowserName)&&(msIsSe=!0),/metasr/i.test(msBrowserName)&&(msIsMSearch=!0),queryinput&&msIsSe&&msIsMSearch&&(queryinput.addEventListener?(queryinput.addEventListener("keypress",c,!1),queryinput.addEventListener("keydown",c,!1)):queryinput.attachEvent?(queryinput.attachEvent("onkeypress",c),queryinput.attachEvent("onkeydown",c)):(queryinput.onkeypress=c,queryinput.onkeydown=c)),window.m_s_index=function(){var e=document.sf.query,o=Math.round(1e3*((new Date).getTime()+Math.random()));e.focus(),new RegExp("kw=([^&]+)").test(location.search)&&0==e.value.length&&(e.value=decodeURIComponent(RegExp.$1)),document.cookie.indexOf("SUV=")<0&&(document.cookie="SUV="+o+";path=/;expires=Sun, 29 July 2026 00:00:00 UTC;domain="+function(){var e=document.domain;return e.indexOf("sogou.com")==e.length-9?".sogou.com":e.indexOf("soso.com")==e.length-8?".soso.com":-1!=e.indexOf("sogo.com")?".sogo.com":void 0}()),n&&((new Image).src="//pb6.sogou.com/v6")},window.st=function(e,o,n,t){var i=document.sf.query,s=encodeURIComponent(i.value),u={news:"http://news.sogou.com/news?ie=utf8&query=",web:"web?ie=utf8&query=",weixin:"http://weixin.sogou.com/weixin?type=2&ie=utf8&query=",zhihu:"http://zhihu.sogou.com/zhihu?ie=utf8&query=",pic:"http://pic.sogou.com/pics?ie=utf8&query=",video:"https://v.sogou.com/v?ie=utf8&query=",myingyi:"https://www.sogou.com/web?m2web=mingyi.sogou.com&ie=utf8&query=",overseas:"http://english.sogou.com?b_o_e=1&ie=utf8&fr=pcweb_index_nav&query=",scholar:"http://scholar.sogou.com?ie=utf8&fr=common_index_nav&query=",fanyi:"http://fanyi.sogou.com/?fr=common_index_nav_pc&ie=utf8&keyword=",wenwen:"http://wenwen.sogou.com/s/?ch=websearch&w=",dangjian:a},r=u[n]||e.href;function c(e){return-1<e.indexOf("?")?"&":"?"}i&&""!==i.value&&(u[n]?r=u[n]+s:0<r.indexOf("kw=")?r=r.replace(new RegExp("kw=[^&$]*"),"kw="+s):r+=c(r)+"kw="+s),o&&(r+=c(r)+"p="+o),t&&0<t.length&&(r+="#"+t),!i||""!=i.value||"wenwen"!=n&&"dangjian"!=n||(r=e.href),e.href=r},window.cid=function(e,o){var n=document.sf.query,t=encodeURIComponent(n.value);t?"web2ww"===o?e.href+="s/?cid=web2ww&w="+t:"web2bk"===o&&(e.href+="Search.e?sp=S"+t+"&cid=web2bk"):e.href+="?cid="+o},window.m_s_index()}indexjsInit(false, {"suggestHistoryStrategy1":"","suggestHistoryStrategy2":"0|1|2|3|4|5|6|7|8","suggHistoryAbtest":""}, true, 'http://dangjian.sogou.com/dangjian?query=', 'invaliduser', '', '');</script><script src="//dlweb.sogoucdn.com/pcsearch/web/index/js/suggbase_b9937f7.js"></script>  <script src="//dlweb.sogoucdn.com/pcsearch/js/common/widget/index_login_a7ce741.js"></script><script src="//account.sogou.com/static/api/passport-async.js"></script>  <script src="//dlweb.sogoucdn.com/pcsearch/web/index/js/searchbase_211ecd8.js"></script>  </body></html><!--zly-->
+
+
+
+
+
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<html xmlns:v>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=Edge"/>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta HTTP-EQUIV="Pragma" CONTENT="no-cache">
+<meta HTTP-EQUIV="Expires" CONTENT="-1">
+<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+<link rel="icon" href="images/favicon.png">
+<title>ASUS Login</title>
+<style>
+body{
+font-family: Arial, MS UI Gothic, MS P Gothic, sans-serif;
+}
+.wrapper{
+background:url(images/New_ui/login_bg.png) #283437 no-repeat;
+background-size: 1280px 1076px;
+background-position: center 0%;
+margin: 0px;
+background:#283437\9;
+}
+.title_name {
+font-size: 40pt;
+color:#93d2d9;
+}
+.prod_madelName{
+font-size: 26pt;
+color:#fff;
+margin-left:78px;
+margin-top: 10px;
+}
+.login_img{
+width:43px;
+height:43px;
+background-image: url('images/New_ui/icon_titleName.png');
+background-repeat: no-repeat;
+}
+.p1{
+font-size: 16pt;
+color:#fff;
+width:480px;
+}
+.button{
+background-color:#279FD9;
+border-radius: 4px ;
+transition: visibility 0s linear 0.218s,opacity 0.218s,background-color 0.218s;
+height: 68px;
+width: 300px;
+font-size: 28pt;
+color:#fff;
+text-align: center;
+float:right;
+margin:50px 0px 0px 78px;
+line-height:68px;
+cursor:pointer;
+}
+.form_input{
+background-color:rgba(255,255,255,0.2);
+background-color:#576D73\9;
+border-radius: 4px;
+padding:23px 22px;
+width: 480px;
+border: 0;
+height:30px;
+color:#fff;
+font-size:28px;
+}
+.nologin{
+margin:10px 0px 0px 78px;
+background-color:rgba(255,255,255,0.2);
+padding:20px;
+line-height:36px;
+border-radius: 5px;
+width: 480px;
+border: 0;
+color:#FFF;
+color:#FFF\9; /* IE6 IE7 IE8 */
+font-size:28px;
+}
+.div_table{
+display:table;
+}
+.div_tr{
+display:table-row;
+}
+.div_td{
+display:table-cell;
+}
+.title_gap{
+margin:20px 0px 0px 78px;
+}
+.img_gap{
+padding-right:30px;
+vertical-align:middle;
+}
+.password_gap{
+margin:30px 0px 0px 78px;
+}
+.error_hint{
+color: rgb(255, 204, 0);
+margin:10px 0px -10px 78px;
+font-size: 18px;
+}
+.error_hint1{
+margin:40px 0px -10px 78px;
+font-size: 24px;
+line-height:32px;
+width: 580px;
+}
+.main_field_gap{
+margin:100px auto 0;
+}
+.warming_desc{
+font-size: 16px;
+color:#FC0;
+width: 600px;
+}
+#captcha_img_div{
+margin: 30px 0px 0px 30px;
+width: 160px;
+height: 60px;
+border-radius: 4px;
+background-color:#FFF;
+float: left;
+}
+#captcha_pic{
+width: 90%;
+height:90%;
+margin: 3px 0px 0px 0px;
+}
+#captcha_input_div{
+margin: 30px 0px 0px 78px;
+float: left;
+}
+#captcha_text{
+width: 245px;
+background-color: rgba(255,255,255,0.2);
+background-color: #576D73\9;
+border-radius: 4px;
+padding: 15px 22px;
+border: 0;
+height: 30px;
+color: #fff;
+font-size: 28px;
+}
+#reCaptcha{
+margin: 45px 0px 0px 10px;
+width: 30px;
+height: 30px;
+float: left;
+background-image: url("data:image/svg+xml;charset=US-ASCII,%3C%3Fxml%20version%3D%221.0%22%20encoding%3D%22iso-8859-1%22%3F%3E%0A%3C!DOCTYPE%20svg%20PUBLIC%20%22-%2F%2FW3C%2F%2FDTD%20SVG%201.1%2F%2FEN%22%20%22http%3A%2F%2Fwww.w3.org%2FGraphics%2FSVG%2F1.1%2FDTD%2Fsvg11.dtd%22%3E%0A%3Csvg%20version%3D%221.1%22%20xmlns%3D%22http%3A%2F%2Fwww.w3.org%2F2000%2Fsvg%22%20xmlns%3Axlink%3D%22http%3A%2F%2Fwww.w3.org%2F1999%2Fxlink%22%20width%3D%2232%22%20height%3D%2232%22%20viewBox%3D%220%200%2032%2032%22%3E%0A%3Cpath%20fill%3D%22%23ABB2BB%22%20d%3D%22M31.638%2022.702c-0.181-0.664-0.906-0.604-1.509-0.785l-1.208-0.423c0.966-1.992%201.087-3.321%201.087-5.555%200-8.211-6.642-14.853-14.853-14.853s-14.853%206.702-14.853%2014.913%206.641%2014.853%2014.853%2014.853c0.664%200%201.208-0.543%201.208-1.208s-0.543-1.208-1.208-1.208c-6.823%200-12.438-5.555-12.438-12.438s5.615-12.438%2012.438-12.438%2012.438%205.555%2012.438%2012.438c0%201.872-0.060%202.838-0.845%204.528l-0.906-0.785c-0.604-0.423-0.906-0.966-1.509-0.785-0.664%200.181-0.966%200.906-0.785%201.509l1.449%204.408c0.181%200.543%200.664%200.845%201.147%200.845%200.121%200%200.241%200%200.362-0.060l4.408-1.449c0.604-0.181%200.966-0.845%200.725-1.509v0z%22%3E%3C%2Fpath%3E%0A%3C%2Fsvg%3E%0A");
+background-repeat: no-repeat;
+}
+/*for mobile device*/
+@media screen and (max-width: 1000px){
+.title_name {
+font-size: 20pt;
+color:#93d2d9;
+margin-left:15px;
+}
+.prod_madelName{
+font-size: 13pt;
+margin-left: 15px;
+}
+.p1{
+font-size: 12pt;
+width:100%;
+}
+.login_img{
+background-size: 75%;
+}
+.form_input{
+padding:10px 11px;
+width: 100%;
+height:30px;
+font-size:16px
+}
+.button{
+height: 50px;
+width: 100%;
+font-size: 14pt;
+text-align: center;
+float:right;
+margin: 25px -22px 40px 15px;
+line-height:50px;
+padding-left: 7px;
+}
+.nologin{
+margin-left:10px;
+padding:10px;
+line-height:18px;
+width: 100%;
+font-size:14px;
+}
+.error_hint{
+margin-left:10px;
+}
+.error_hint1{
+width: 100%;
+font-size:14px;
+}
+.main_field_gap{
+width:80%;
+margin:30px 0 0 15px;
+/*margin:30px auto 0;*/
+}
+.title_gap{
+margin-left:15px;
+}
+.password_gap{
+margin-left:15px;
+}
+.img_gap{
+padding-right:0;
+vertical-align:middle;
+}
+.warming_desc{
+margin: 10px 15px;
+width: 100%;
+}
+#captcha_img_div{
+margin-left: 10px;
+width: 30%;
+height: 40px;
+border-radius: 4px;
+background-color:#FFF;
+float: left;
+}
+#captcha_pic{
+width: 90%;
+height: 90%;
+margin: 2px 0px 0px 3px;
+}
+#captcha_input_div{
+margin-left: 15px;
+width: 47%;
+height: 40px;
+}
+#captcha_text{
+padding: 0px 11px;
+width: 80%;
+height: 40px;
+font-size: 16px
+}
+#reCaptcha{
+margin-top: 35px;
+}
+}
+@media screen and (max-width: 320px){
+#captcha_input_div{
+width: 44%;
+}
+}
+</style>
+<script>
+/* add Array.prototype.forEach() in IE8 */
+if(typeof Array.prototype.forEach != 'function'){
+Array.prototype.forEach = function(callback){
+for(var i = 0; i < this.length; i++){
+callback.apply(this, [this[i], i, this]);
+}
+};
+}
+function tryParseJSON (jsonString){
+try {
+var o = JSON.parse(jsonString);
+if (o && typeof o === "object") {
+return o;
+}
+}
+catch (e) { }
+return false;
+};
+var login_info = tryParseJSON('{ "lock_time": -17947, "error_status": 0, "error_num": 0, "page": "index.asp" }');
+var isIE8 = navigator.userAgent.search("MSIE 8") > -1;
+var isIE9 = navigator.userAgent.search("MSIE 9") > -1;
+var remaining_time = login_info.lock_time;
+var remaining_time_min;
+var remaining_time_sec;
+var remaining_time_show;
+var countdownid, rtime_obj;
+var redirect_page = login_info.page;
+var isRouterMode = ('1' == '1') ? true : false;
+var header_info = [{ "host": "192.168.50.1", "current_page": "Main_Login.asp", "protocol": "http", "port": 80 }][0];
+var ROUTERHOSTNAME = 'router.asus.com';
+var domainNameUrl = header_info.protocol+"://"+ROUTERHOSTNAME+":"+header_info.port;
+var chdom = function(){window.location.href=domainNameUrl};
+(function(){
+if(ROUTERHOSTNAME !== header_info.host && ROUTERHOSTNAME != "" && isRouterMode){
+setTimeout(function(){
+var s=document.createElement("script");s.type="text/javascript";s.src=domainNameUrl+"/chdom.json?hostname="+header_info.host;var h=document.getElementsByTagName("script")[0];h.parentNode.insertBefore(s,h);
+}, 1);
+}
+})();
+function isSupport(_ptn){
+var ui_support = [{ "mssid": 1, "2.4G": 1, "5G": 1, "update": 1, "usbX2": 1, "switchctrl": 1, "manual_stb": 1, "pwrctrl": 1, "WIFI_LOGO": 1, "nandflash": 1, "meoVoda": 1, "movistarTriple": 1, "app": 1, "gameMode": 1, "reboot_schedule": 1, "ipv6": 1, "ipv6pt": 1, "PARENTAL2": 1, "loclist": 1, "dualwan": 1, "pptpd": 1, "openvpnd": 1, "utf8_ssid": 1, "printer": 1, "modem": 1, "webdav": 1, "rrsut": 1, "cloudsync": 1, "media": 1, "appbase": 1, "fileflex": 1, "timemachine": 1, "hdspindown": 1, "diskutility": 1, "frs_feedback": 1, "dblog": 1, "email": 1, "bwdpi": 1, "wrs_wbl": 1, "HTTPS": 1, "letsencrypt": 1, "ssh": 1, "vpnc": 1, "repeater": 1, "psta": 1, "wl6": 1, "optimize_xbox": 1, "wifi_tog_btn": 1, "user_low_rssi": 1, "bcmfa": 1, "tcode": 1, "usericon": 1, "stainfo": 1, "cloudcheck": 1, "realip": 1, "cfg_sync": 1, "amas": 1, "bcmwifi": 1, "eula": 1, "proxysta": 1, "dpi_mals": 1, "dpi_vp": 1, "dpi_cc": 1, "adaptive_qos": 1, "traffic_analyzer": 1, "webs_filter": 1, "apps_filter": 1, "web_history": 1, "bandwidth_monitor": 1, "aicloudipk": 0, "concurrep": 0, "rp_express_2g": 0, "rp_express_5g": 0, "hnd": 0, "localap": 1, "nwtool": 1, "usbPortMax": 2, "usbX": 1, "usb3": 1, "wl_mfp": 1, "wlopmode": 0, "11AC": 1, "yadns": 0, "noRouter": 0, "RPMesh": 0, "odm": 0, "dualband": 1, "triband": 0, "separate_ssid": 0, "mssid_count": 3, "dhcp_static_dns": 1, "acs_dfs": 0, "wanMax": 2, "open_nat": 1, "uu_accel": 1, "del_client_data": 1, "captcha": 1, "amasRouter": 1, "amasNode": 1 }
+][0];
+return (ui_support[_ptn]) ? ui_support[_ptn] : 0;
+}
+var captcha_support = isSupport("captcha");
+if(captcha_support)
+var captcha_on = (login_info.error_num >= 2 && login_info.error_status != "7")? true : false;
+else
+var captcha_on = false;
+function initial(){
+var flag = login_info.error_status;
+if(isIE8 || isIE9){
+document.getElementById("name_title_ie").style.display ="";
+document.getElementById("password_title_ie").style.display ="";
+}
+if(flag != ""){
+document.getElementById("error_status_field").style.display ="";
+if(flag == 3){
+document.getElementById("error_status_field").innerHTML ="* 错误的登录名仅或者密码";
+}
+else if(flag == 7){
+document.getElementById("error_status_field").innerHTML ="You have entered an incorrect username or password 5 times. Please try again after "+"<span id='rtime'></span>"+" seconds.";
+document.getElementById("error_status_field").className = "error_hint error_hint1";
+disable_input(1);
+disable_button(1);
+rtime_obj=document.getElementById("rtime");
+countdownfunc();
+countdownid = window.setInterval(countdownfunc,1000);
+}
+else if(flag == 8){
+document.getElementById("login_filed").style.display ="none";
+document.getElementById("logout_field").style.display ="";
+}
+else if(flag == 9){
+document.getElementById("login_filed").style.display ="none";
+document.getElementById("nologin_field").style.display ="";
+}
+else if(flag == 10){
+document.getElementById("error_captcha_field").style.display ="";
+}
+else{
+document.getElementById("error_status_field").style.display ="none";
+}
+}
+document.form.login_username.focus();
+/*register keyboard event*/
+document.form.login_username.onkeyup = function(e){
+e=e||event;
+if(e.keyCode == 13){
+document.form.login_passwd.focus();
+return false;
+}
+};
+document.form.login_username.onkeypress = function(e){
+e=e||event;
+if(e.keyCode == 13){
+return false;
+}
+};
+document.form.login_passwd.onkeyup = function(e){
+e=e||event;
+if(e.keyCode == 13){
+if(captcha_on)
+document.form.captcha_text.focus();
+else
+login();
+return false;
+}
+};
+document.form.login_passwd.onkeypress = function(e){
+e=e||event;
+if(e.keyCode == 13){
+return false;
+}
+};
+if(captcha_on){
+var timestamp = new Date().getTime();
+var captcha_pic = document.getElementById("captcha_pic");
+captcha_pic.src = "captcha.gif?t=" + timestamp;
+document.form.captcha_text.onkeyup = function(e){
+e=e||event;
+if(e.keyCode == 13){
+login();
+return false;
+}
+};
+document.form.captcha_text.onkeypress = function(e){
+e=e||event;
+if(e.keyCode == 13){
+return false;
+}
+};
+document.getElementById("captcha_field").style.display = "";
+}
+else
+document.getElementById("captcha_field").style.display = "none";
+if(history.pushState != undefined) history.pushState("", document.title, window.location.pathname);
+}
+function countdownfunc(){
+remaining_time_min = checkTime(Math.floor(remaining_time/60));
+remaining_time_sec = checkTime(Math.floor(remaining_time%60));
+remaining_time_show = remaining_time_min +":"+ remaining_time_sec;
+rtime_obj.innerHTML = remaining_time_show;
+if (remaining_time==0){
+clearInterval(countdownid);
+setTimeout("top.location.href='/Main_Login.asp';", 2000);
+}
+remaining_time--;
+}
+function login(){
+var trim = function(val){
+val = val+'';
+for (var startIndex=0;startIndex<val.length && val.substring(startIndex,startIndex+1) == ' ';startIndex++);
+for (var endIndex=val.length-1; endIndex>startIndex && val.substring(endIndex,endIndex+1) == ' ';endIndex--);
+return val.substring(startIndex,endIndex+1);
+}
+if(!window.btoa){
+window.btoa = function(input){
+var keyStr = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789+/=";
+var output = "";
+var chr1, chr2, chr3, enc1, enc2, enc3, enc4;
+var i = 0;
+var utf8_encode = function(string) {
+string = string.replace(/\r\n/g,"\n");
+var utftext = "";
+for (var n = 0; n < string.length; n++) {
+var c = string.charCodeAt(n);
+if (c < 128) {
+utftext += String.fromCharCode(c);
+}
+else if((c > 127) && (c < 2048)) {
+utftext += String.fromCharCode((c >> 6) | 192);
+utftext += String.fromCharCode((c & 63) | 128);
+}
+else {
+utftext += String.fromCharCode((c >> 12) | 224);
+utftext += String.fromCharCode(((c >> 6) & 63) | 128);
+utftext += String.fromCharCode((c & 63) | 128);
+}
+}
+return utftext;
+};
+input = utf8_encode(input);
+while (i < input.length) {
+chr1 = input.charCodeAt(i++);
+chr2 = input.charCodeAt(i++);
+chr3 = input.charCodeAt(i++);
+enc1 = chr1 >> 2;
+enc2 = ((chr1 & 3) << 4) | (chr2 >> 4);
+enc3 = ((chr2 & 15) << 2) | (chr3 >> 6);
+enc4 = chr3 & 63;
+if (isNaN(chr2)) {
+enc3 = enc4 = 64;
+}
+else if (isNaN(chr3)) {
+enc4 = 64;
+}
+output = output +
+keyStr.charAt(enc1) + keyStr.charAt(enc2) +
+keyStr.charAt(enc3) + keyStr.charAt(enc4);
+}
+return output;
+};
+}
+document.form.login_username.value = trim(document.form.login_username.value);
+document.form.login_authorization.value = btoa(document.form.login_username.value + ':' + document.form.login_passwd.value);
+document.form.login_username.disabled = true;
+document.form.login_passwd.disabled = true;
+document.form.login_captcha.value = btoa(document.form.captcha_text.value);
+document.form.captcha_text.disabled = true;
+try{
+if(redirect_page == ""
+|| redirect_page == "Logout.asp"
+|| redirect_page == "Main_Login.asp"
+|| redirect_page.indexOf(" ") != -1
+|| redirect_page.indexOf("//") != -1
+|| redirect_page.indexOf("http") != -1
+|| (redirect_page.indexOf(".asp") == -1 && redirect_page.indexOf(".htm") == -1 && redirect_page != "send_IFTTTPincode.cgi" && redirect_page != "cfg_onboarding.cgi")
+){
+document.form.next_page.value = "";
+}
+else{
+document.form.next_page.value = redirect_page;
+}
+}
+catch(e){
+document.form.next_page.value = "";
+}
+document.form.submit();
+}
+function disable_input(val){
+var disable_input_x = document.getElementsByClassName('form_input');
+for(i=0;i<disable_input_x.length;i++){
+if(val == 0)
+disable_input_x[i].disabled = true;
+else
+disable_input_x[i].style.display = "none";
+}
+}
+function disable_button(val){
+if(val == 0)
+document.getElementsByClassName('button')[0].disabled = true;
+else
+document.getElementsByClassName('button')[0].style.display = "none";
+}
+function checkTime(i){
+if (i<10){
+i="0" + i
+}
+return i
+}
+function regen_captcha(){
+var timestamp = new Date().getTime();
+var captcha_pic = document.getElementById("captcha_pic");
+var queryString = "?t=" + timestamp;
+captcha_pic.src = "captcha.gif" + queryString;
+}
+</script>
+</head>
+<body class="wrapper" onload="initial();">
+<iframe name="hidden_frame" id="hidden_frame" width="0" height="0" frameborder="0"></iframe>
+<iframe id="dmRedirection" width="0" height="0" frameborder="0" scrolling="no" src=""></iframe>
+<form method="post" name="form" action="login.cgi" target="">
+<input type="hidden" name="group_id" value="">
+<input type="hidden" name="action_mode" value="">
+<input type="hidden" name="action_script" value="">
+<input type="hidden" name="action_wait" value="5">
+<input type="hidden" name="current_page" value="Main_Login.asp">
+<input type="hidden" name="next_page" value="Main_Login.asp">
+<input type="hidden" name="login_authorization" value="">
+<input type="hidden" name="login_captcha" value="">
+<div class="div_table main_field_gap">
+<div class="div_tr">
+<div class="title_name">
+<div class="div_td img_gap">
+<div class="login_img"></div>
+</div>
+<div class="div_td">登录</div>
+</div>
+<div class="prod_madelName">RT-AC68U</div>
+<div id="login_filed">
+<div class="p1 title_gap">用华硕路由器帐号登录</div>
+<div id="name_title_ie" style="display:none;margin:20px 0 -10px 78px;" class="p1 title_gap">用户名</div>
+<div class="title_gap">
+<input type="text" id="login_username" name="login_username" tabindex="1" class="form_input" maxlength="20" autocapitalize="off" autocomplete="off" placeholder="用户名">
+</div>
+<div id="password_title_ie" style="display:none;margin:20px 0 -20px 78px;" class="p1 title_gap">密码</div>
+<div class="password_gap">
+<input type="password" name="login_passwd" tabindex="2" class="form_input" maxlength="16" placeholder="密码" autocapitalize="off" autocomplete="off">
+</div>
+<div class="error_hint" style="display:none;" id="error_status_field"></div>
+<div id="captcha_field" style="display: none;">
+<div id="captcha_input_div"><input id ="captcha_text" name="captcha_text" tabindex="3" maxlength="5" autocapitalize="off" autocomplete="off"></div>
+<div id="captcha_img_div"><img id="captcha_pic"></div>
+<div id="reCaptcha" onclick="regen_captcha();"></div>
+<div class="error_hint" style="display:none; clear:left;" id="error_captcha_field">Captcha is wrong. Please input again.</div>
+</div>
+<div class="button" onclick="login();">登录</div>
+</div>
+<div id="nologin_field" style="display:none;">
+<div class="p1 title_gap"></div>
+<div class="nologin">
+请先注销该名用户后，再登录使用。
+<div id="logined_ip_str"></div>
+</div>
+</div>
+<div id="logout_field" style="display:none;">
+<div class="p1 title_gap"></div>
+<div class="nologin">您已成功注销。</div>
+</div>
+</div>
+</div>
+</form>
+</body>
+</html>
+
