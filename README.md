@@ -1,7 +1,24 @@
 加浩版权
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           加浩版权                             加浩版权加浩版权                                                                                                              加浩版权                       加浩版权                                           加浩版权加浩版权                         加浩版权                                                           加浩版权                                                                                                    加浩版权                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        
-版权：https://bitbucket.org/sogou-jiahao/sogou.git
-备用：https://github.com/jiahao-haohao/hao
+
+
+
+                                       https://bitbucket.org/sogou-jiahao/sogou.git
+                                       https://github.com/jiahao-haohao/hao
+                                       https://gitee.com/jiahao-513/sogou
+                                       https://github.com/sogou-sogou/sogou
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                       
+                                                        以上均为加浩版权
 加浩码云内容为GitHub的备份文件
 均为加浩版权
 
@@ -24,7 +41,7 @@
                         IP(端口号)：192.168.50.50
 
 
-                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   
+                                        加浩官网均为内网                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           
                                                                                                        
                                                    
 
